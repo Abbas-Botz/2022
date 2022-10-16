@@ -49,7 +49,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/riski_abnas12' // ig
+global.sig = 'https://instagram.com/riski_abbas12' // ig
 global.sgh = 'https://github.com/Abbas-Botz/' // github
 global.sgc = '-' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
@@ -68,7 +68,7 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '628995820020'
-global.nomorown = '6282127487538'
+global.nomorown = '628995820020'
 global.namebot = 'ABBAS-MODS-BOT-V1'
 global.nameown = 'ABBAS MODS DEV'
 
