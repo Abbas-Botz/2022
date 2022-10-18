@@ -67,8 +67,8 @@ global.ppulsa2 = '08995820020' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628995820020'
-global.nomorown = '628995820020'
+global.nomorbot = '60174306734'
+global.nomorown = '60174306734'
 global.namebot = 'ABBAS-MODS-BOT-V1'
 global.nameown = 'ABBAS MODS DEV'
 
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628995820020', 'ABBAS MODS DEV', true],
+  ['60174306734', 'ABBAS MODS DEV', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
